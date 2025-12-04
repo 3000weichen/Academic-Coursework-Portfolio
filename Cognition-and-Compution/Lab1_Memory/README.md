@@ -7,16 +7,15 @@ Team Members:
 - Komeili Zadeh, Koorosh
 - Peng, Yihui
 
-This project investigates human memory encoding and recall mechanisms using computational modeling.
+Goal: Model human memory retrieval under uncertainty.
 
-**Key Topics**
-- Memory trace activation
-- Interference and recall accuracy
-- Priming effects in associative learning models
+Key work:
+- Constructed memory activation and recognition simulation
+- Generated *receiver operating characteristic (ROC)* to measure discrimination
+- Analyzed false alarm vs. hit rates under noise changes
 
-**My contributions**
-- Developed the recall simulation script
-- Generated analysis plots for interference effects
-- Co-authored result discussion
+Outcome:
+Understanding how activation strength influences recognition sensitivity.
 
-> Score: 89.5 / 100
+Team: Diego · Hao · Adrien · Koorosh · Yihui  
+Score: 89.5 / 100
