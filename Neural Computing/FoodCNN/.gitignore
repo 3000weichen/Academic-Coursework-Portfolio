@@ -1,0 +1,5 @@
+# model weights and checkpoints
+*.pth
+*.pt
+checkpoints/
+runs/
