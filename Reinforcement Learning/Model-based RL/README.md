@@ -24,4 +24,20 @@ These agents are evaluated in **Windy GridWorld** under deterministic (wind=1.0)
 - **Prioritized Sweeping** typically outperforms Dyna in both:
   - **Final performance**
   - **Runtime efficiency (~3× faster)**
-- In stochastic environments, **over-planning** may hurt final
+- In stochastic environments, **over-planning** may hurt final performance → stability trade-off
+- Agents pretrained in a deterministic world **adapt better** when stochasticity increases
+
+---
+
+## Conclusion
+
+> PS offers the best overall speed–performance trade-off  
+> and remains more robust under environmental change.
+
+---
+
+## Team
+
+Hao Chen · Simone de Vos Burchart  
+Score: **10 / 10**  
+Group 80 — *Introduction to Reinforcement Learning*
