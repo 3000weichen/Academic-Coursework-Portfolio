@@ -7,16 +7,14 @@ Team Members:
 - Komeili Zadeh, Koorosh
 - Peng, Yihui
 
-Cognitive modeling of reward-based decisions using probabilistic choice behavior.
+Goal: Model decision behavior using evidence accumulation.
 
-**Key Topics**
-- Reinforcement learning in human decision making
-- Value updating under uncertainty
-- Exploration vs exploitation behavior
+Key work:
+- Implemented drift-diffusion decision model
+- Varied drift rate and decision threshold
+- Analyzed how reward structures influence exploration vs. exploitation
 
-**My contributions**
-- Implemented action-value update model in the notebook
-- Performed parameter sensitivity study
-- Wrote part of analysis on reward prediction error signals
+Outcome:
+Faster evidence gain or lower thresholds yield faster but riskier decisions.
 
-> Score: 100 / 100
+Score: 100 / 100
