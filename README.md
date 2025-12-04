@@ -12,7 +12,7 @@ All projects received high evaluation results.
 
 ## Cognition & Computation  
 Focus: Memory, language, decision modeling, and neural cognitive architectures  
-Scores: **89.5 – 100 / 100**
+Scores: **8.95 – 10 / 10**
 
 Projects
 - [Memory](./Cognition-and-Computation/Lab1-Memory/)
