@@ -17,5 +17,4 @@ Key work:
 Outcome:
 Understanding how activation strength influences recognition sensitivity.
 
-Team: Diego · Hao · Adrien · Koorosh · Yihui  
 Score: 89.5 / 100
