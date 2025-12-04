@@ -7,16 +7,14 @@ Team Members:
 - Komeili Zadeh, Koorosh
 - Peng, Yihui
 
-Modeling semantic processing and lexical recognition in cognitive systems.
+Goal: Simulate mechanisms of speech segmentation.
 
-**Key Topics**
-- Word frequency effects
-- Semantic network activation
-- Lexical decision modeling
+Key work:
+- Implemented a model for syllable boundary detection
+- Tested transition-probability based segmentation
+- Demonstrated recognition advantage for predictable word sequences
 
-**My contributions**
-- Designed semantic activation propagation experiment
-- Extracted performance metrics from lexical decision simulations
-- Helped refine interpretation of semantic facilitation results
+Outcome:
+Higher transitional probabilities lead to better segmentation accuracy.
 
-> Score: 100 / 100
+Score: 100 / 100
